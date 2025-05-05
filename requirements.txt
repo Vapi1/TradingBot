@@ -1,0 +1,8 @@
+# requirements.txt
+streamlit
+transformers
+tweepy
+python-dotenv
+requests
+matplotlib
+pandas
